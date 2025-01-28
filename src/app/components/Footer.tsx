@@ -105,7 +105,7 @@ export default function Footer() {
               height="200"
               className=""
               style={{ border: 0 }}
-              allowFullScreen=""
+              allowFullScreen={true}
               loading="lazy"
             ></iframe>
           </div>
